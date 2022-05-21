@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @numanafzal1162 I am a student of BSIT
-- 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning about Mobile Application Development
+- 👀 I’m interested in Mobile Application Development in Flutter
+- 🌱 I’m currently learning about Mobile Application Development in Flutter
 - 📫 You can by DM me ✨
 
 <!---
